@@ -92,4 +92,4 @@ Current keys:
 
 ## Author
 
-- usagi
+- [USAGI/USAGI.NETWORK](https://usagi.network)
